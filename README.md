@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indrajith Goswami</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-## Hacktoberfest - 2022 🏆
-[![@indrajith's Holopin board](https://holopin.me/indrajith)](https://holopin.io/@indrajith)
+
+<h3 align="left">Hacktoberfest - 2022 🏆</h3>
+<img src='https://holopin.me/indrajith'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajith76&label=Profile%20views&color=0e75b6&style=flat" alt="indrajith76" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajith76" alt="indrajith76" /></a> </p>
