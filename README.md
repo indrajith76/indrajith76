@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajith Goswami</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src='indrajith.png'/
+<img src='indrajithgoswami.png'/
 
 <h3 align="left">Hacktoberfest - 2022 🏆</h3>
 <a href='https://www.holopin.me/indrajith'><img src='hacktober_fest_badge.png'/></a>
