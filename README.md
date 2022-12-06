@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajith76" alt="indrajith76" /></a> </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">📫 Reach me out:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/indrajithgoswami" target="blank"><img align="center" src="./icons/linkedin.png" alt="indrajith76" height="60" width="" /></a>
 <a href="https://twitter.com/indrajithcse" target="blank"><img align="center" src="./icons/twitter.png" alt="indrajithcse" height="60" width="" /></a>
