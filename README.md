@@ -5,7 +5,7 @@
 <a href='https://www.holopin.me/indrajith'><img src='hacktober_fest_badge.png'/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajith76&label=Profile%20views&color=0e75b6&style=flat" alt="indrajith76" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajith76" alt="indrajith76" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajith76" alt="indrajith76" /></a> </p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
