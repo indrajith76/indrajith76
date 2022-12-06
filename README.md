@@ -27,6 +27,7 @@
 <h2 align='left'>🎁 Contributions</h2>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrajith76&" alt="indrajith76" /></p>
 
-<p align='center'>
-![GitHub metrics](https://metrics.lecoq.io/indrajith76)  
-</p>
+
+<span align='center'>
+<img src='https://metrics.lecoq.io/indrajith76'/>
+</span>
