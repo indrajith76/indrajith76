@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Indrajith Goswami</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src='indrajithgoswami.png'/>
-<h3 align="left">Open source contribution | Hacktoberfest - 2022 🏆</h3>
+<h2 align="left">Open source contribution | Hacktoberfest - 2022 🏆</h2>
 <a href='https://www.holopin.me/indrajith'><img src='hacktober_fest_badge.png'/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajith76&label=Profile%20views&color=0e75b6&style=flat" alt="indrajith76" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajith76" alt="indrajith76" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/indrajithgoswami" target="blank"><img align="center" src="./icons/linkedin.png" alt="indrajith76" height="50" width="" /></a>
-<a href="https://twitter.com/indrajithcse" target="blank"><img align="center" src="./icons/twitter.png" alt="indrajithcse" height="50" width="" /></a>
-<a href="https://fb.com/indrajithcse" target="blank"><img align="center" src="./icons/facebook.png" alt="indrajithcse" height="50" width="" /></a>
+<a href="https://linkedin.com/in/indrajithgoswami" target="blank"><img align="center" src="./icons/linkedin.png" alt="indrajith76" height="60" width="" /></a>
+<a href="https://twitter.com/indrajithcse" target="blank"><img align="center" src="./icons/twitter.png" alt="indrajithcse" height="60" width="" /></a>
+<a href="https://fb.com/indrajithcse" target="blank"><img align="center" src="./icons/facebook.png" alt="indrajithcse" height="60" width="" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
