@@ -28,6 +28,6 @@
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrajith76&" alt="indrajith76" /></p>
 
 
-<span align='center'>
-<img align='center' src='https://metrics.lecoq.io/indrajith76'/>
-</span>
+<p align="center">
+<img align="center" src='https://metrics.lecoq.io/indrajith76'/>
+</p>
