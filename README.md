@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/indrajithgoswami" target="blank"><img align="center" src="./icons/linkedin.png" alt="indrajith76" height="40" width="" /></a>
-<a href="https://twitter.com/indrajithcse" target="blank"><img align="center" src="./icons/twitter.png" alt="indrajithcse" height="40" width="" /></a>
-<a href="https://fb.com/indrajithcse" target="blank"><img align="center" src="./icons/facebook.png" alt="indrajithcse" height="40" width="" /></a>
+<a href="https://linkedin.com/in/indrajithgoswami" target="blank"><img align="center" src="./icons/linkedin.png" alt="indrajith76" height="50" width="" /></a>
+<a href="https://twitter.com/indrajithcse" target="blank"><img align="center" src="./icons/twitter.png" alt="indrajithcse" height="50" width="" /></a>
+<a href="https://fb.com/indrajithcse" target="blank"><img align="center" src="./icons/facebook.png" alt="indrajithcse" height="50" width="" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
