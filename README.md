@@ -29,5 +29,5 @@
 
 
 <span align='center'>
-<img src='https://metrics.lecoq.io/indrajith76'/>
+<img align='center' src='https://metrics.lecoq.io/indrajith76'/>
 </span>
