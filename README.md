@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Indrajith Goswami</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Front+End+Developer;React+Developer;MERN+Stack+Developer;Web+Developer" alt="Typing SVG" /></a>
-
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img src='indrajith.png'/>
 
