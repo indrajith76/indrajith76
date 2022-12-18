@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indrajith Goswami</h1>
-<h3 align="center"><a href="https://git.io/typing-svg">A passionate <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;React+Developer;MERN+Stack+Developer;Web+Developer" alt="Typing SVG" /> from Bangladesh</a></h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;React+Developer;MERN+Stack+Developer;Web+Developer" alt="Typing SVG" /> </a>
+
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img src='indrajith.png'/>
 
 <h2 align="left">📫 Reach me out:</h2>
